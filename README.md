@@ -1,5 +1,6 @@
 # empower
 air quality project
 
-run   
+run 
+`npm install`  
 `npm start`
